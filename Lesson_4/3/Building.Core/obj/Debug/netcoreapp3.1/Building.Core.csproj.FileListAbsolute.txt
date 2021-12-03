@@ -1,0 +1,9 @@
+D:\VS_Projects_Creator\GB_OOP\Lesson_4\Lesson_4\3\Building.Core\bin\Debug\netcoreapp3.1\Building.Core.deps.json
+D:\VS_Projects_Creator\GB_OOP\Lesson_4\Lesson_4\3\Building.Core\bin\Debug\netcoreapp3.1\Building.Core.dll
+D:\VS_Projects_Creator\GB_OOP\Lesson_4\Lesson_4\3\Building.Core\bin\Debug\netcoreapp3.1\Building.Core.pdb
+D:\VS_Projects_Creator\GB_OOP\Lesson_4\Lesson_4\3\Building.Core\obj\Debug\netcoreapp3.1\Building.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Projects_Creator\GB_OOP\Lesson_4\Lesson_4\3\Building.Core\obj\Debug\netcoreapp3.1\Building.Core.AssemblyInfoInputs.cache
+D:\VS_Projects_Creator\GB_OOP\Lesson_4\Lesson_4\3\Building.Core\obj\Debug\netcoreapp3.1\Building.Core.AssemblyInfo.cs
+D:\VS_Projects_Creator\GB_OOP\Lesson_4\Lesson_4\3\Building.Core\obj\Debug\netcoreapp3.1\Building.Core.csproj.CoreCompileInputs.cache
+D:\VS_Projects_Creator\GB_OOP\Lesson_4\Lesson_4\3\Building.Core\obj\Debug\netcoreapp3.1\Building.Core.dll
+D:\VS_Projects_Creator\GB_OOP\Lesson_4\Lesson_4\3\Building.Core\obj\Debug\netcoreapp3.1\Building.Core.pdb
