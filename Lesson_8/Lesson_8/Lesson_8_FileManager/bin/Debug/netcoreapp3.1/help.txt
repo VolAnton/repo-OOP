@@ -1,0 +1,86 @@
+﻿Приветствую тебя, пользователь!
+Справка к программе файловый менеджер студента GeekBrains Волощука Антона.
+
+В файловом менеджере реализованы следующие команды:
+
+cd	- переход в указанную директорию.
+пример:
+	D:\ > cd name
+	D:\ > cd name\path
+	D:\ > cd d:\name\path\work
+
+d:	- переход к диску D:\
+пример:
+	D:\ > d:
+	D:\ > c:
+	D:\ > e:
+
+tree	- выводит на экран дерево каталогов и файлов относительно места указанного в коммандной строке
+пример:
+	D:\ > FileManager\tree
+	C:\ > tree
+	D:\ > tree
+
+ls	- выводит на экран информацию о текущей директории: вложенные в ней папки и файлы, и информацию о самой директории
+пример:
+	D:\ > ls
+	D:\name\path > ls
+	D:\name\path\work > ls
+
+file	- выводит информацию о файле, если файл с расширением .exe, то выводит больше информации
+пример:
+	D:\ > file D:\text.txt
+	D:\ > file D:\Lesson1.pdf
+	D:\ > file D:\start.exe
+
+rm	- рекурсивное удаление папок, удаление файлов
+пример:
+	D:\ > rm D:\File\text.txt
+	D:\ > rm D:\temp
+	D:\ > rm C:\autoexec.bat
+
+mv	- перемещение и переименование папок и файлов
+пример:
+	D:\ > mv D:\File\text.txt D:\File\simple-text.txt
+	D:\ > mv D:\File C:\File
+	D:\ > mv C:\log.txt D:\Temp\log.txt
+
+cp	- копирование папок (с вложениями) и файлов
+пример:
+	D:\ > cp D:\FileManager E:\FileManager
+	D:\ > cp D:\1\text.txt D:\2\text.txt
+	D:\ > cp D:\2 D:\3
+
+crd	- создание папки
+пример:
+	D:\ > crd D:\FileManager
+	D:\ > crd D:\1\1
+	D:\ > crd D:\2
+
+crf	- создание файла "txt"
+пример:
+	D:\ > crf D:\21\text.txt
+	D:\ > crf D:\1\text-test.txt
+	D:\ > crf D:\2\s.txt
+
+find	- поиск по маске
+пример:
+	D:\ > find D:\FileManager txt
+	D:\ > find D:\1\ pdf
+	D:\ > find D:\2  txt
+
+count	- подсчет слов в текстовом файле
+пример:
+	D:\ > count d:\2\1.txt
+	D:\ > count d:\FileManager\2.txt
+	D:\ > count d:\44\3.txt
+
+exit	- выход из программы
+пример:
+	D:\ > exit
+
+--help	- вызов текущей справки
+пример:
+	D:\ > --help
+
+Желаю успехов!

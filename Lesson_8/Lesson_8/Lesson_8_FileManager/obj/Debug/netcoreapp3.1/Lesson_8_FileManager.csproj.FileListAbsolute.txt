@@ -1,0 +1,17 @@
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\bin\Debug\netcoreapp3.1\Lesson_8_FileManager.exe
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\bin\Debug\netcoreapp3.1\Lesson_8_FileManager.deps.json
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\bin\Debug\netcoreapp3.1\Lesson_8_FileManager.runtimeconfig.json
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\bin\Debug\netcoreapp3.1\Lesson_8_FileManager.runtimeconfig.dev.json
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\bin\Debug\netcoreapp3.1\Lesson_8_FileManager.dll
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\bin\Debug\netcoreapp3.1\Lesson_8_FileManager.pdb
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\bin\Debug\netcoreapp3.1\MyHomeWork.Core.dll
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\bin\Debug\netcoreapp3.1\MyHomeWork.Core.pdb
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\obj\Debug\netcoreapp3.1\Lesson_8_FileManager.csproj.AssemblyReference.cache
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\obj\Debug\netcoreapp3.1\Lesson_8_FileManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\obj\Debug\netcoreapp3.1\Lesson_8_FileManager.AssemblyInfoInputs.cache
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\obj\Debug\netcoreapp3.1\Lesson_8_FileManager.AssemblyInfo.cs
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\obj\Debug\netcoreapp3.1\Lesson_8_FileManager.csproj.CoreCompileInputs.cache
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\obj\Debug\netcoreapp3.1\Lesson_8_FileManager.csproj.CopyComplete
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\obj\Debug\netcoreapp3.1\Lesson_8_FileManager.dll
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\obj\Debug\netcoreapp3.1\Lesson_8_FileManager.pdb
+D:\VS_Projects_Creator\GB_OOP\Lesson_8\Lesson_8_FileManager\obj\Debug\netcoreapp3.1\Lesson_8_FileManager.genruntimeconfig.cache
